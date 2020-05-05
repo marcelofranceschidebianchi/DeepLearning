@@ -2,7 +2,7 @@
 Deep Learning Projects
 1 - Supervised Deep Learning
    1 - ANN Artificial Neural Network
-   Dataset: Churn Modellling - Identificatoin if the customer will buy or not a product
+   Dataset: Churn Modellling - Identification if the customer will buy or not a product
    2 - CNN Convolutional Neural Network 
    Dataset: Images of Cats and Dogs - Identification of Cat and Dogs Images
    3 - Recurrent Neural Networks
